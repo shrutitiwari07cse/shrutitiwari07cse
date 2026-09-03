@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Shruti Kumari
 
-<!--
-**shrutitiwari07cse/shrutitiwari07cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 B.Tech CSE Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science & Engineering student passionate about learning
+programming, building projects, and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+- ☕ Java
+- 🧠 Data Structures & Algorithms
+- 🌐 HTML, CSS & JavaScript
+- 🗄️ SQL & MongoDB
+- 🌱 Full Stack Development
+
+### 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+- MongoDB
+
+### 📌 Projects
+
+- 🧮 Calculator using HTML, CSS & JavaScript
+- 🏨 Hotel Management System
+- 🚀 More projects coming soon...
+
+### 🎯 My Goal
+
+To become a skilled Software Developer and build real-world
+projects that solve meaningful problems.
+
+### 📫 Connect With Me
+
+- GitHub: @shruti tiwari07cse
+
+---
+
+⭐ Thanks for visiting my profile!
