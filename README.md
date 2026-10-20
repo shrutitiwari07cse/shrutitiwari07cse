@@ -10,8 +10,7 @@ programming, building projects, and improving my problem-solving skills.
 - ☕ Java
 - 🧠 Data Structures & Algorithms
 - 🌐 HTML, CSS & JavaScript
-- 🗄️ SQL & MongoDB
-- 🌱 Full Stack Development
+
 
 ### 🛠️ Skills
 
@@ -19,13 +18,10 @@ programming, building projects, and improving my problem-solving skills.
 - CSS
 - JavaScript
 - Java
-- SQL
-- MongoDB
 
 ### 📌 Projects
 
 - 🧮 Calculator using HTML, CSS & JavaScript
-- 🏨 Hotel Management System
 - 🚀 More projects coming soon...
 
 ### 🎯 My Goal
